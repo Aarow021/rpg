@@ -1,0 +1,6 @@
+[submodule "rpg-original"]
+	path = rpg-original
+	url = https://github.com/Aarow021/rpg-original
+[submodule "rpg-extended"]
+	path = rpg-extended
+	url = https://github.com/Aarow021/rpg-extended
